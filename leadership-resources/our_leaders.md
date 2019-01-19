@@ -6,6 +6,7 @@
 - Education Director : [Katherine McClintic](https://twitter.com/scarletalphabet)
 - Network Director: [Lauren Jacobson](https://twitter.com/Lauren_CJay)
 - Technology Director: [Pam Vong](https://twitter.com/pamtaro)
+- Growth Director: [Victoria Guido](https://twitter.com/victori_ousg)
 
 ## Jump to a team
 1. [Education](https://github.com/womenwhocodedc/organization/blob/master/leadership-resources/our_leaders.md#education-team)
@@ -38,6 +39,12 @@
   - [Nyasha]()
   - [Mary Katherine]()
   - [Anissa]()
+- DevOps:
+  - [Glenna]()
+  - [Victoria]()
+  - [Marian]()
+  - [Sue]()
+  - [Jessica]()
 
 ## Network Team
 The network team is responsible for maintaining and promoting the Women Who Code image and presence in Washington DC and beyond. It seeks to constantly improve WWC events and provide value for our members
